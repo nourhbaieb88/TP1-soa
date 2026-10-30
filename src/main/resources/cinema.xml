@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cinema>
+    <films>
+        <film id="F001" genre="Science-fiction">
+            <titre>Inception</titre>
+            <realisateur>Christopher Nolan</realisateur>
+            <annee>2010</annee>
+            <duree>148</duree>
+            <note>8.8</note>
+            <enSalle>false</enSalle>
+        </film>
+        <film id="F002" genre="Drame">
+            <titre>The Pianist</titre>
+            <realisateur>Roman Polanski</realisateur>
+            <annee>2002</annee>
+            <duree>150</duree>
+            <note>8.5</note>
+            <enSalle>false</enSalle>
+        </film>
+        <film id="F003" genre="Science-fiction">
+            <titre>Dune: Part Two</titre>
+            <realisateur>Denis Villeneuve</realisateur>
+            <annee>2024</annee>
+            <duree>166</duree>
+            <note>8.6</note>
+            <enSalle>true</enSalle>
+        </film>
+        <film id="F004" genre="Comédie">
+            <titre>Intouchables</titre>
+            <realisateur>Olivier Nakache</realisateur>
+            <annee>2011</annee>
+            <duree>112</duree>
+            <note>8.5</note>
+            <enSalle>true</enSalle>
+        </film>
+    </films>
+</cinema>
